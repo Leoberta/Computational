@@ -1,0 +1,14 @@
+
+OUTCAR.1.00:  free  energy   TOTEN  =         5.33978860 eV
+OUTCAR.1.25:  free  energy   TOTEN  =        -1.97767167 eV
+OUTCAR.1.50:  free  energy   TOTEN  =        -4.89008007 eV
+OUTCAR.1.75:  free  energy   TOTEN  =        -5.91535204 eV
+OUTCAR.2.00:  free  energy   TOTEN  =        -6.13507712 eV
+OUTCAR.2.25:  free  energy   TOTEN  =        -5.94181041 eV
+OUTCAR.2.50:  free  energy   TOTEN  =        -5.53971620 eV
+OUTCAR.2.75:  free  energy   TOTEN  =        -5.04190441 eV
+OUTCAR.3.00:  free  energy   TOTEN  =        -4.52355680 eV
+OUTCAR.3.25:  free  energy   TOTEN  =        -4.01664194 eV
+OUTCAR.3.50:  free  energy   TOTEN  =        -3.54680199 eV
+OUTCAR.3.75:  free  energy   TOTEN  =        -3.11720485 eV
+OUTCAR.4.00:  free  energy   TOTEN  =        -2.72354583 eV

@@ -1,0 +1,15 @@
+# ---- Electronic minimization ----
+ISTART = 1       # put ISTART=1 in the LPARD step. Vasp read wf to construct partial charge
+ICHARG = 11
+ISMEAR = 0
+SIGMA  = 0.01
+ISPIN  = 2
+
+
+# ---- Partial charge of orbitals ----
+LPARD  = .TRUE.
+EINT   = -11 -6   # change the energy interval for px, py, pz values written in EIGENVAL
+LCHARG = .TRUE.   #.TRUE. 
+
+# ---- Output ----
+LWAVE  = .TRUE.      # LWAVE=.TRUE. to write WAVECAR in scf. Put LWAVE=.FALSE. when using LPARD
