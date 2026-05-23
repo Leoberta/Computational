@@ -1,0 +1,9 @@
+Atom     
+9      ! universal scaling parameter
+1 0 0  ! lattice vector  a(1)
+0 1 0  ! lattice vector  a(2)
+0 0 1  ! lattice vector  a(3)
+C
+1      ! number of atoms
+Dir    ! direct coordinates 
+0.5 0.5 0.5  ! positions in cartesian coordinates 
